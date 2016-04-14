@@ -1,2 +1,2 @@
 # JMS_ActiveMQ
-Spring boot project solving mathematical equations with JMS communiaction
+Distributed Spring boot application solving mathematical equations with communiaction based on JMS with AtciveMQ broker
